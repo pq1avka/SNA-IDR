@@ -1,1 +1,1 @@
-# SNA-Information-Diffusion-Rate-
+# SNA-Information-Diffusion-Rate
