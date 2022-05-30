@@ -22,9 +22,9 @@ appname <- "Information Diffusion in Network"
 key <- api_key
 secret <- api_secret_key
 api_key <- "cOg6enCjhYcS5j2raWXlvUMlS"
-api_secret_key <- "jHf71ZF31PT7p2OFjc7aS05EPTUA2rd0e9rjimi5jYYe3n885k"
-access_token <- '1219650013502017543-igNaRLY3nRgqZelSxNyh95xNFWmR6k'
-access_secret <- 'LhIKhfw4qPxrBUvVuIrhm7EmGFzTtjpUVgf4CxKbsi9sP'
+api_secret_key <- -
+access_token <- -
+access_secret <- -
 
 
 twitter_token <- create_token(app = appname, consumer_key = api_key, 
