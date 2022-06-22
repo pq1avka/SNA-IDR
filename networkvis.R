@@ -27,12 +27,6 @@ V(preliminary)$clu <-  as.character(membership(cluster_louvain(preliminary)))
 V(preliminary)$size <-  degree(preliminary)
 
 
-for (i in 1:503) {
-  if("drfahrettinkoca" %in% V(decompose(preliminary)[[i]])$name){
-    print(i)
-  } else{
-  }
-}
 
 elements <- decompose(preliminary)[[1]]
 for (i in 1:503) {
